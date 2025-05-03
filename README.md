@@ -5,4 +5,4 @@ Criaçao de maquina virtual no ambiente Azure
  3- opcao de disponibilidade > Zona de disponibilidade
  4- Zona 1
  5- Ubuntu - x64
- 
+6- Revisar e Criar 
